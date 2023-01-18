@@ -91,13 +91,14 @@ De output van card_features_df
 card_features_df_matrix = csr_matrix(card_features_df.values)
 De nieuwe tabel wordt omgezet naar een CSR-matrix (Compressed Sparse Row matrix) zodat hier een KNN-model van gemaakt kan worden. 
 
-<img width="674" alt="image" src="https://user-images.githubusercontent.com/55138203/213212703-e1b7f2b7-44e8-4129-8f5e-bde52bb2285a.png">
+<img width="112" alt="image" src="https://user-images.githubusercontent.com/55138203/213213053-613f4999-6e9e-4adc-923b-88187b46d4d9.png">
 
  
 De output van card_features_df_matrix met als kolommen cardId, userId en de bijbehorende rating. 
 
 
-![Uploading image.png…]()
+
+<img width="674" alt="image" src="https://user-images.githubusercontent.com/55138203/213212703-e1b7f2b7-44e8-4129-8f5e-bde52bb2285a.png">
 
 
 
